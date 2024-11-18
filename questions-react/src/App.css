@@ -112,3 +112,15 @@ textarea {
 .errorintitle{
   color: red;
 }
+
+.options {
+  display: flex;
+  gap: 20px;
+  /* Space between options */
+}
+
+.option {
+  display: flex;
+  align-items: center;
+}
+
